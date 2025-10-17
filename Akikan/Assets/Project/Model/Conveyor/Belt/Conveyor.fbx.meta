@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Conveyor-Belt_TEX_128x128
-    second: {fileID: 2800000, guid: b152e57f74041c145bf7783f4742d51c, type: 3}
+    second: {fileID: 2800000, guid: f5b272977b325c34cb0445d2b2d979b7, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
